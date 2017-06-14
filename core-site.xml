@@ -1,7 +1,7 @@
 <configuration>
 	<property>
 		<name>fs.azure.account.key.u07rlumajqacgvoagnt1.blob.core.windows.net</name>
-		<value>3EFCQrlGuYDMLVg/pletYPwK0UgSPt5eDEGqH+nzZe18dduO8vDA+OcXuN7trBd0jPV/InF1VPTp/S82CH8QvA==</value>
+		<value>9D5HKDppKdC6MfowhpDVplZb4J5jNUgr92F5vsPXdyhiRVNm7JM9DawzhXrIbQ+kTuxedqhgluM4kTzRX7L2Ig==</value>
 	</property>
 	<property>
 		<name>fs.defaultFS</name>
