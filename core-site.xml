@@ -4,8 +4,8 @@
 		<value>9D5HKDppKdC6MfowhpDVplZb4J5jNUgr92F5vsPXdyhiRVNm7JM9DawzhXrIbQ+kTuxedqhgluM4kTzRX7L2Ig==</value>
 	</property>
 	<property>
-		<name>fs.azure.sas.hdfs.d07rlumajqacgvoagnt1.blob.core.windows.net</name>
-		<value>st%3D2017-06-19T18%253A14%253A00Z%26se%3D2017-06-20T18%253A14%253A00Z%26sp%3Drwdl%26sv%3D2015-12-11%26sr%3Dc%26sig%3DbFGL2ltvZTAvhXP28DWSTLvlO1pbIieIW7IXBgT%252BAbU%253D</value>
+		<name>fs.azure.account.key.d07rlumajqacgvoagnt1.blob.core.windows.net</name>
+		<value>s81aQ2rNLWy/bgyd0qKHGY6lHc+SPy0BlVW0KzkTUojfI3hsQn2b8XRfr5hpm5WNWakYEAMcOuWKn4yiR8aqCQ==</value>
 	</property>
 	<property>
 		<name>fs.defaultFS</name>
