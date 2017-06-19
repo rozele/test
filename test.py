@@ -13,7 +13,7 @@ if __name__ == "__main__":
         .appName("PythonTest")\
         .getOrCreate()
 
-    count = spark.sparkContext.textFile('wasb://hdfs@d07rlumajqacgvoagnt1.blob.core.windows.net/pg100.txt.utf8').count()
+    count = spark.sparkContext.textFile('wasb:///pg100.txt.utf8').count()
     print("Output is %f" % count)
 
     spark.stop()
