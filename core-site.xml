@@ -1,7 +1,11 @@
 <configuration>
 	<property>
-		<name>fs.azure.sas.hdfs.u07rlumajqacgvoagnt1.blob.core.windows.net</name>
-		<value>st%3D2017-06-19T18%253A14%253A00Z%26amp%3Bse%3D2017-06-20T18%253A14%253A00Z%26amp%3Bsp%3Drwdl%26amp%3Bsv%3D2015-12-11%26amp%3Bsr%3Dc%26amp%3Bsig%3DJOy6tXMpRchZCMjEFDh23kaYdohDmA67nQ6QaaYfYbA%253D</value>
+		<name>fs.azure.account.key.u07rlumajqacgvoagnt1.blob.core.windows.net</name>
+		<value>9D5HKDppKdC6MfowhpDVplZb4J5jNUgr92F5vsPXdyhiRVNm7JM9DawzhXrIbQ+kTuxedqhgluM4kTzRX7L2Ig==</value>
+	</property>
+	<property>
+		<name>fs.azure.sas.hdfs.d07rlumajqacgvoagnt1.blob.core.windows.net</name>
+		<value>st%3D2017-06-19T18%253A14%253A00Z%26se%3D2017-06-20T18%253A14%253A00Z%26sp%3Drwdl%26sv%3D2015-12-11%26sr%3Dc%26sig%3DbFGL2ltvZTAvhXP28DWSTLvlO1pbIieIW7IXBgT%252BAbU%253D</value>
 	</property>
 	<property>
 		<name>fs.defaultFS</name>
