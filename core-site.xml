@@ -1,14 +1,14 @@
 <configuration>
 	<property>
-		<name>fs.azure.account.key.u07rlumajqacgvoagnt1.blob.core.windows.net</name>
-		<value>9D5HKDppKdC6MfowhpDVplZb4J5jNUgr92F5vsPXdyhiRVNm7JM9DawzhXrIbQ+kTuxedqhgluM4kTzRX7L2Ig==</value>
+		<name>fs.azure.account.keyprovider.ericrozstorage</name>
+		<value>org.apache.hadoop.fs.azure.ShellDecryptionKeyProvider</value>
 	</property>
 	<property>
-		<name>fs.azure.account.key.d07rlumajqacgvoagnt1.blob.core.windows.net</name>
-		<value>s81aQ2rNLWy/bgyd0qKHGY6lHc+SPy0BlVW0KzkTUojfI3hsQn2b8XRfr5hpm5WNWakYEAMcOuWKn4yiR8aqCQ==</value>
+		<name>fs.azure.account.key.ericrozstorage.blob.core.windows.net</name>
+		<value>U2FsdGVkX1+Ns8Xnphaj4r+IdZoFWLI/ccyh3YcvuwdyhQeXb8R0857HrOUQSUiNbZrAk0fat0XF3iIe/QxML+S6ezbWcmmnVDPNOxKz8rS2P/hDISZZEANpEiuIGKXgixm9GlZV79ox+xVSsHWQkg==</value>
 	</property>
 	<property>
-		<name>fs.defaultFS</name>
-		<value>wasb://hdfs@u07rlumajqacgvoagnt1.blob.core.windows.net</value>
+		<name>fs.azure.shellkeyprovider.script</name>
+		<value>/opt/tools/decrypt.sh</value>
 	</property>
 </configuration>
