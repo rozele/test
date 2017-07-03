@@ -5,7 +5,7 @@
 	</property>
 	<property>
 		<name>fs.azure.account.key.ericrozstorage.blob.core.windows.net</name>
-		<value>U2FsdGVkX1+Ns8Xnphaj4r+IdZoFWLI/ccyh3YcvuwdyhQeXb8R0857HrOUQSUiNbZrAk0fat0XF3iIe/QxML+S6ezbWcmmnVDPNOxKz8rS2P/hDISZZEANpEiuIGKXgixm9GlZV79ox+xVSsHWQkg==</value>
+		<value>U2FsdGVkX18cAzCXJcCFR2YKbJ8NpgJf1yXxnmtTH34MlKRTuoiHtHnk3vWqy9SR\EQ0y2WmVjvCoxfYCQ2YTp3+fUwT43ENqyKhs+d7NTGL/F6ba/gF7TWZpRT7nk2YU\dPd5D4BF0mVujq9mqeRfHQ==</value>
 	</property>
 	<property>
 		<name>fs.azure.shellkeyprovider.script</name>
