@@ -3,4 +3,8 @@
 		<name>fs.azure.account.key.ericrozstorage.blob.core.windows.net</name>
 		<value>LcLzChVp3y3+M/UJzJt4KrQz4Sn87i+GL6ONxqcGAHHVg/GOVdVJTdOyPuorcALuVbJOIt6VS4036BlqUlmFXQ==</value>
 	</property>
+	<property>
+		<name>fs.defaultFS</name>
+		<value>wasb://hdfs@ericrozstorage.blob.core.windows.net</value>
+	</property>
 </configuration>
