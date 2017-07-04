@@ -1,6 +1,6 @@
 <configuration>
 	<property>
-		<name>fs.azure.account.keyprovider.ericrozstorage</name>
+		<name>fs.azure.account.keyprovider.ericrozstorage.blob.core.windows.net</name>
 		<value>org.apache.hadoop.fs.azure.ShellDecryptionKeyProvider</value>
 	</property>
 	<property>
