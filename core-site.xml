@@ -5,7 +5,7 @@
 	</property>
 	<property>
 		<name>fs.azure.account.key.ericrozstorage.blob.core.windows.net</name>
-		<value>qC53xdlMWD9haz03HIcGsCUy9jGscoQdC0MzKW8TZC8sjdBe0j5jL8jOUi41bCKVxJYeHUAKz9682AsJkFQG1SfN9q+S5yW5J4ngcP4mlCnEbVrEWwplgYU8vvlt0+I0C/yv3jUDzUPT+yTMeUD0SHOl07Ff0HGlHo4LppQT6Kz25lv0L7T8cTSh/7f9qBDoVk4kkx/EtoZ28qKYMhIp5AJU7zh2uWcQjC81Kx1tjYJ62it+N92bLu/t9PW5uzGTbuvqMyQnYajvfTJ2Go69cCNohw/9DfHub8AgIM5d1o0lhvi8aJtzdemnmlA94Cxh6P9lbazxK2wPFO8xSrH6og==</value>
+		<value>veb9IidbVvzsMutJpNcmFK83zN0DjsnuZDmphQSCaAfD4KpcqdnzPDRgjgF2c1Hn6YAlds7ryQXFqCUgIGU7/E0me+K/cSPoQWHgXOVgC9ssUBwSyMKRpMW0diGn6wUq2/OZXU5f+9qMnfAeiQ9JMEkyBOR1TWbCNjIYItuZ145lTZ2RTcpYHPbyKW8Ilrrwae0cudLbIad9egu8RnUVfHhTI3YVIW/hyvUNQv+8/Ut48ZphwkjDcUs1QK4bZG9rWZF104U6iKmVIP7/uNOSCjfaOhlxkCYa/i0vopenJRvSH9mSL3brDa/e4HMnCf4T3Ih3x3nutwvORh21Lf5Exw==</value>
 	</property>
 	<property>
 		<name>fs.azure.shellkeyprovider.script</name>
