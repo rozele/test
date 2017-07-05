@@ -1,15 +1,7 @@
 <configuration>
 	<property>
-		<name>fs.azure.account.keyprovider.ericrozstorage.blob.core.windows.net</name>
-		<value>org.apache.hadoop.fs.azure.ShellDecryptionKeyProvider</value>
-	</property>
-	<property>
-		<name>fs.azure.account.key.ericrozstorage.blob.core.windows.net</name>
-		<value>veb9IidbVvzsMutJpNcmFK83zN0DjsnuZDmphQSCaAfD4KpcqdnzPDRgjgF2c1Hn6YAlds7ryQXFqCUgIGU7/E0me+K/cSPoQWHgXOVgC9ssUBwSyMKRpMW0diGn6wUq2/OZXU5f+9qMnfAeiQ9JMEkyBOR1TWbCNjIYItuZ145lTZ2RTcpYHPbyKW8Ilrrwae0cudLbIad9egu8RnUVfHhTI3YVIW/hyvUNQv+8/Ut48ZphwkjDcUs1QK4bZG9rWZF104U6iKmVIP7/uNOSCjfaOhlxkCYa/i0vopenJRvSH9mSL3brDa/e4HMnCf4T3Ih3x3nutwvORh21Lf5Exw==</value>
-	</property>
-	<property>
-		<name>fs.azure.shellkeyprovider.script</name>
-		<value>/opt/tools/decrypt.sh</value>
+		<name>fs.azure.sas.hdfs.ericrozstorage.blob.core.windows.net</name>
+		<value>?sv=2016-05-31&amp;ss=bfqt&amp;srt=sco&amp;sp=rwdlacup&amp;se=2017-07-05T20:06:29Z&amp;st=2017-07-05T12:06:29Z&amp;spr=https&amp;sig=tYQBq0kntaScyyosqbbZGDTv6u68Tm2J3NQPrq6oKBQ%3D</value>
 	</property>
     <property>
 		<name>fs.defaultFS</name>
